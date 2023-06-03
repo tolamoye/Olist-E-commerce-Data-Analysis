@@ -34,10 +34,12 @@ With the messy table on the left-hand side and the cleaned table on the right-ha
 ### **CUSTOMER TABLE**
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
+<img width="641" alt="dirty customer" src="https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/37d43bd9-e65e-479b-af0d-02c4c616688f"> | ![cleaned customer dataset](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/3fccb45c-8ba1-4162-b750-8bd6c06d5cdd)
 
 ### **GEOLOCATION TABLE**
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
+<img width="584" alt="dirty geolocation" src="https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/53256ed4-73d8-4fc5-ac8a-6c695d876a1b"> | ![cleaned geo table](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/05b17632-bd35-4979-9057-2e41c770407a)
 
 ### **ORDER TABLE**
 Messy                                                           | Cleaned
@@ -49,29 +51,23 @@ Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
 ![DIRTY PRODUCT ID](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/dd929fa1-a3c2-46b7-b935-914120c690c7) | ![cleaned product table](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/e32f61e8-f707-41a5-b518-782c98fd5149)
 
-
 ### **PRODUCT CATEGORY TABLE**
-
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
 ![DIRTY PRODUCT CATEGORY](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/8b3057cd-7aa0-4d49-bea1-08b0f523a20b) | ![cleaned product category](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/41c31141-6361-43f2-a150-61d4c6973639)
 
-
 ### **ORDER ITEM TABLE**
-
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
 ![UNCLEANED OREDER ITEM ID](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/9fc64550-dd54-47da-8ed1-3341e80ec80b) | ![cleaned order item id](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/dc51a753-6103-4060-a32e-8d3a1a2cddff)
 
-
 ### **SELLER TABLE**
-![DIRTY SELLER DATA](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/7c5e0d51-135b-47d5-a948-afe20a633bd1)
-
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
+![DIRTY SELLER DATA](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/7c5e0d51-135b-47d5-a948-afe20a633bd1) | ![cleaned seller state](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/7cabd66c-dcdc-4fcf-8462-4e9286b1d7c2)
 
 ### **ORDER PAYMENT**
-
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
+ <img width="664" alt="DIRTY PAYMENT ORDER" src="https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/36b97402-a45b-47ae-bcd3-5a1758c31a3e"> | ![cleaned payment order](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/fb2ac980-518b-4fce-a6a1-ada27fd44c6c)
 
