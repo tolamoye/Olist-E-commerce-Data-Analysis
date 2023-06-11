@@ -668,6 +668,14 @@ ORDER BY total_sales DESC;
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -- 11) Which payment methods are most commonly used by Olist customers, and how does this vary by product category or geographic region?
 --To determine the most commonly used payment methods by Olist customers and how they vary by product category or geographic region, you can use the following SQL query:
+-- total number of orders placed with each payment type
+
+SELECT payment_type, COUNT(DISTINCT order_id) AS num_orders
+FROM olist_order_payments_dataset
+GROUP BY payment_type
+ORDER BY num_orders DESC;
+
+-- by product type
 SELECT
     op.payment_type,
     COUNT(DISTINCT o.customer_id) AS num_customers,
@@ -685,7 +693,61 @@ GROUP BY
     c.customer_state
 ORDER BY num_customers DESC
 
+-- by geographical region
+SELECT 
+    op.payment_type,
+    COUNT(*) AS num_orders,
+    c.customer_state
+FROM
+    olist_orders_dataset o
+    INNER JOIN olist_order_payments_dataset op ON o.order_id = op.order_id
+    INNER JOIN olist_customers_dataset c ON o.customer_id = c.customer_id
+GROUP BY
+    op.payment_type,
+    c.customer_state
+ORDER BY
+    num_orders DESC;-- 11) Which payment methods are most commonly used by Olist customers, and how does this vary by product category or geographic region?
+--To determine the most commonly used payment methods by Olist customers and how they vary by product category or geographic region, you can use the following SQL query:
+-- total number of orders placed with each payment type
 
+SELECT payment_type, COUNT(DISTINCT order_id) AS num_orders
+FROM olist_order_payments_dataset
+GROUP BY payment_type
+ORDER BY num_orders DESC;
+
+-- by product type
+SELECT
+    op.payment_type,
+    COUNT(DISTINCT o.customer_id) AS num_customers,
+    p.product_category_eng_name,
+    c.customer_state
+FROM
+    olist_orders_dataset o
+    INNER JOIN olist_order_payments_dataset op ON o.order_id = op.order_id
+    INNER JOIN olist_order_items_dataset oi ON o.order_id = oi.order_id
+    INNER JOIN olist_products_dataset p ON oi.product_id = p.product_id
+    INNER JOIN olist_customers_dataset c ON o.customer_id = c.customer_id
+GROUP BY
+    op.payment_type,
+    p.product_category_eng_name,
+    c.customer_state
+ORDER BY num_customers DESC
+
+-- by geographical region
+SELECT 
+    op.payment_type,
+    COUNT(*) AS num_orders,
+    c.customer_state
+FROM
+    olist_orders_dataset o
+    INNER JOIN olist_order_payments_dataset op ON o.order_id = op.order_id
+    INNER JOIN olist_customers_dataset c ON o.customer_id = c.customer_id
+GROUP BY
+    op.payment_type,
+    c.customer_state
+ORDER BY
+    num_orders DESC;
+    
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --12) How do customer reviews and ratings affect sales and product performance on Olist?
 -- How do customer reviews and ratings affect sales and product performance on Olist?
