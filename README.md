@@ -112,9 +112,17 @@ by payment method                                                          | by 
 The average order value (AOV) across all payment methods on Olist is approximately R$153.44. When categorizing by payment method, voucher payments had the lowest AOV of R$62.33, while credit card payments had the highest AOV of R$162.70. Furthermore, when categorizing by product category, computers had the highest AOV, followed by fixed telephony.
 
 ### 5) How many sellers are active on Olist, and how does this number change over time?
-      active sellers                                                          | active sellers
+Active sellers                                                        | Active sellers
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
 ![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/5c52bb7c-cdf5-4626-b4d9-5443b56a5074) | ![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/37466b45-c22d-44ef-a700-a6669e388f23)
 
+Olist had a total of 4,312 active sellers. The highest number of active sellers was in 2018 with 2,833, followed by 1,784 in 2017 and the lowest number of active sellers was 145 in 2016. On a quarterly basis, Olist experienced an increase in active sellers throughout most quarters, except for a decline in the last quarter of 2018 (Q3) where it had 52 sellers fewer compared to the previous quarter (Q2), with 1,680 sellers in Q2 and 1,628 sellers in Q3.
 
+### 6)  What is the distribution of seller ratings on Olist, and how does this impact sales performance?
+Distribution of sellers                                                       | Correlation co-effecient
+:--------------------------------------------------------------:|:---------------------------------------------------------------:
+![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/ebba1572-a642-40bf-bbae-a62d89ca48c0) | ![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/567f0e17-61ac-4726-b6b7-609229d52663)
 
+It can be concluded that sellers with review scores of 4 and 5 had the highest number of orders, indicating positive sales performance. Furthermore, sellers with higher review scores also generated higher total revenue, suggesting a correlation between positive reviews and increased sales. However, it is interesting to note that sellers with a review score of 1 had the highest average revenue, indicating that other factors may influence sales performance beyond just review scores.
+
+### 7)  How many customers have made repeated purchases on Olist, and what percentage of total sales do they account for?
