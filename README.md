@@ -161,4 +161,12 @@ Credit card was used for 76505 orders, making it the most common payment method.
 
 Excellent! which has a 5-star rating, received approximately 56,902 reviews. Out of the total purchases of 23,220 products , a significant number, 5-star ratings were given. On average, each product in the generated a revenue of R$160.78. Interestingly, as we move down the rating score, the revenue decreases. This observation implies that Olist may have pricing issues that need to be addressed in order to adjust and optimize revenue.
 
+### 13)  Which product categories have the highest profit margins on Olist, and how can the company increase profitability across different categories?
+![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/649bd0b8-4a66-4c17-952b-6c447394656e)
 
+The profit margins across different product categories vary significantly. The highest profit margin is observed in the "Fixed telephony" category with a percentage profit margin of 327.78, followed by "Signaling and security" (287.02) and "Drinks" (286.87). On the other hand, categories like "Furniture mattress and upholstery" (88.63) and "Home appliances 2" (91.01) have relatively lower profit margins.
+
+### 14)  Geolocation having high customer density. Calculate customer retention rate according to geolocations.
+![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/32ee15d1-9e64-47da-bbc8-d42f74aeed10)
+
+Geolocations with higher customer densities indicate areas where the company has a larger customer base and potentially higher market demand. Geolocations with relatively higher customer densities include Acre (4.94%), Rondonia (4.35%), Mato Grosso (3.42%), Rio de Janeiro (3.34%), and Goias (3.27%).  The customer retention rate is a measure of the percentage of customers who make repeated purchases. It provides insights into customer loyalty and the effectiveness of the company's strategies to retain customers.
