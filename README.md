@@ -1,5 +1,5 @@
 # **Olist-E-commerce-Data-Aanalysis**
-![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/3eabf4f0-8701-4970-82de-75978d1ffed7)
+![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/b57e7bae-89a7-4b4f-84cc-449cbd1912e3)
 --
 
 ## **INTRODUCTION**
@@ -11,7 +11,6 @@ In April, I took part in a data challenge hosted by the Twitter data community. 
 - Validate and clean the data to improve accuracy and usability
 - Analyze the data to address the problem statement
 - Offer recommendations to Olist company
---
 
 ## **DATASET AND DATA DICTIONARY**
 The Olist [dataset](https://drive.google.com/drive/folders/1re0HnJD5TCNVkVDHoPQ08aByKMWRRRJC) comprises nine separate datasets, all of which are stored in CSV format:
