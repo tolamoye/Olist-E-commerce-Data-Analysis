@@ -33,42 +33,50 @@ With the messy table on the left-hand side and the cleaned table on the right-ha
 ### **CUSTOMER TABLE**
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
-<img width="641" alt="dirty customer" src="https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/37d43bd9-e65e-479b-af0d-02c4c616688f"> | ![cleaned customer dataset](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/3fccb45c-8ba1-4162-b750-8bd6c06d5cdd)
+<img width="641" alt="dirty customer" src="https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/5a8ceada-3165-451e-9c3b-05b3212019df"> |![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/8d040a9f-21af-4152-bab9-a950b00f35d9)
+
 
 ### **GEOLOCATION TABLE**
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
-<img width="584" alt="dirty geolocation" src="https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/53256ed4-73d8-4fc5-ac8a-6c695d876a1b"> | ![cleaned geo table](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/05b17632-bd35-4979-9057-2e41c770407a)
+<img width="584" alt="dirty geolocation" src="https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/984618ea-db36-452a-9043-55f7ddbc180c"> | <img width="641" alt="dirty customer" src="https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/5a8ceada-3165-451e-9c3b-05b3212019df">
+
 
 ### **ORDER TABLE**
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
-![dirty order dataset](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/1b3dc73f-d98f-44b9-bbcf-2a266e00ad8e) | ![cleaned order table](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/887d78e4-72cf-4432-a408-db9624ed63b9)
+![dirty order dataset](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/d394de7d-8174-4ae9-a786-ccdc2e94878a) | ![cleaned order table](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/a39f6ae4-d3df-417e-abf3-01de31bd914d)
+
 
 ### **PRODUCT TABLE**
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
-![DIRTY PRODUCT ID](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/dd929fa1-a3c2-46b7-b935-914120c690c7) | ![cleaned product table](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/e32f61e8-f707-41a5-b518-782c98fd5149)
+![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/50efc4da-0712-4213-acfb-8f7b84ab52fb) | ![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/d04a55e4-739d-468e-a9d7-2faa712adbe3)
+
+
 
 ### **PRODUCT CATEGORY TABLE**
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
-![DIRTY PRODUCT CATEGORY](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/8b3057cd-7aa0-4d49-bea1-08b0f523a20b) | ![cleaned product category](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/41c31141-6361-43f2-a150-61d4c6973639)
+![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/dfa50039-0615-4445-92ec-9c44d16bb3c9) | ![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/26fd3562-9df0-423c-a400-929bb653110c)
+
 
 ### **ORDER ITEM TABLE**
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
-![UNCLEANED OREDER ITEM ID](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/9fc64550-dd54-47da-8ed1-3341e80ec80b) | ![cleaned order item id](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/dc51a753-6103-4060-a32e-8d3a1a2cddff)
+![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/d45d1eae-ff2b-4aab-885d-fe1bd0f8a1ae) | ![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/9aceff73-a224-47d5-b187-475d8f73cd2d)
 
 ### **SELLER TABLE**
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
-![DIRTY SELLER DATA](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/7c5e0d51-135b-47d5-a948-afe20a633bd1) | ![cleaned seller state](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/7cabd66c-dcdc-4fcf-8462-4e9286b1d7c2)
+![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/6c96c2ea-45a0-48fe-8bab-77df9b890a2d) | ![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/64348a09-64c7-49b9-8899-b07771b6bb48)
+
 
 ### **ORDER PAYMENT**
 Messy                                                           | Cleaned
 :--------------------------------------------------------------:|:---------------------------------------------------------------:
- <img width="664" alt="DIRTY PAYMENT ORDER" src="https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/36b97402-a45b-47ae-bcd3-5a1758c31a3e"> | ![cleaned payment order](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/fb2ac980-518b-4fce-a6a1-ada27fd44c6c)
+<img width="664" alt="DIRTY PAYMENT ORDER" src="https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/ea940b9c-0acc-4ec1-ac99-858ed94bdde0"> | ![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/3a25bcf6-da67-4f0e-bf1e-b08a8c6c3b67)
+
 
 ## **BUSINESS QUESTIONS**
 1. What is the total revenue generated by Olist, and how has it changed over time?
