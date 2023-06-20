@@ -1,4 +1,4 @@
-# **Olist-E-commerce-Data-Aanalysis**
+# **Olist-E-commerce-Data-Analysis**
 ![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/b57e7bae-89a7-4b4f-84cc-449cbd1912e3)
 --
 
